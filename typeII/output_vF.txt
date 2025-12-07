@@ -1,0 +1,24 @@
+# Seebeck coefficient for n-type doping (S0)
+5.000	0.509
+3.000	0.452
+6.000	0.545
+# Seebeck coefficient for p-type doping (S0)
+-5.000	-0.451
+-4.000	-0.598
+-4.000	-0.405
+# PF for n-type doping ($S0^{2}\sigma$)
+13.000	8.560
+13.000	3.135
+13.000	15.670
+# PF for p-type doping ($S0^{2}\sigma$)
+-7.000	6.586
+-7.000	6.889
+-7.000	6.507
+# ZT for n-type doping
+5.000	0.075
+5.000	0.063
+5.000	0.086
+# ZT for p-type doping
+-6.000	0.060
+-5.000	0.103
+-5.000	0.051
